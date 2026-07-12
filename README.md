@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📱_Responsive-Yes-3b82f6?style=for-the-badge" height="28"/>
+  <img src="https://img.shields.io/badge/_Responsive-Yes-3b82f6?style=for-the-badge" height="28"/>
   <img src="https://img.shields.io/badge/_Animated-Smooth-a855f7?style=for-the-badge" height="28"/>
   <img src="https://img.shields.io/badge/_Crypto_Secure-Yes-22c55e?style=for-the-badge" height="28"/>
   <img src="https://img.shields.io/badge/_Dependencies-None-ef4444?style=for-the-badge" height="28"/>
