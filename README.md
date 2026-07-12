@@ -31,13 +31,11 @@ A clean, fast, secure password generator — customize, generate, copy instantly
 
 ---
 
-### 🚀 Run it
+## 🚀 Built With
 
-```bash
-git clone https://github.com/your-username/password-generator.git
-```
-
-Open `index.html` — done. No build step. 🎉
+- HTML5
+- CSS3
+- JavaScript
 
 ---
 
