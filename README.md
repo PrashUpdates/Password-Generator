@@ -20,12 +20,4 @@
 
 ---
 
-### 🚀 Run it
-```bash
-git clone https://github.com/prashupdates/password-generator.git
-```
-Open `index.html` — done. No build step. 🎉
 
----
-
-<p align="center">Made with ⚡ + ☕</p>
