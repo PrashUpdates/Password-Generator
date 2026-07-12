@@ -15,12 +15,6 @@
   <img src="https://img.shields.io/badge/_Dependencies-None-ef4444?style=for-the-badge" height="28"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-completed-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/made%20with-%E2%9D%A4-red?style=flat-square" />
-</p>
-
 ---
 
 ### 🎐 Features
