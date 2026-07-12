@@ -21,13 +21,13 @@ A clean, fast, secure password generator — customize, generate, copy instantly
 
 ## Features
 
-▸ **Adjustable Length** — 4 to 32 characters  
-▸ **Character Sets** — uppercase, lowercase, numbers, symbols  
-▸ **Instant Copy** — one click, with confirmation  
-▸ **Strength Meter** — real-time feedback  
-▸ **Secure by Design** — built on `crypto.getRandomValues()`  
-▸ **Responsive** — desktop to mobile  
-▸ **Animated UI** — smooth transitions throughout
+01. Adjustable password length (4–32 characters)
+02. Toggle uppercase, lowercase, numbers, and symbols
+03. One-click copy to clipboard with confirmation
+04. Real-time password strength meter
+05. Cryptographically secure random generation
+06. Fully responsive design
+07. Smooth UI animations and transitions
 
 ---
 
