@@ -22,7 +22,7 @@
 
 ### 🚀 Run it
 ```bash
-git clone https://github.com/your-username/password-generator.git
+git clone https://github.com/prashupdates/password-generator.git
 ```
 Open `index.html` — done. No build step. 🎉
 
