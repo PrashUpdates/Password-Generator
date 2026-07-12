@@ -1,6 +1,6 @@
 <h1 align="center">🔐 Password Generator</h1>
 
-<p text-align="center
+<p text-align="center"
 A clean, fast, secure password generator — customize, generate, copy instantly.
 </p>
 
