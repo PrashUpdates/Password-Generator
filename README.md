@@ -1,6 +1,6 @@
 <h1 align="center">🔐 Password Generator</h1>
 
-<p align="center">A clean, secure password generator — customize, generate, copy. ⚡</p>
+<p align="center">A clean, secure password generator — customize, generate, copy.</p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
@@ -20,8 +20,6 @@
   <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/made%20with-%E2%9D%A4-red?style=flat-square" />
 </p>
-
-<p align="center">A clean, secure password generator — customize, generate, copy. ⚡</p>
 
 ---
 
