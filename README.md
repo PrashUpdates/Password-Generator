@@ -19,15 +19,15 @@ A clean, fast, secure password generator — customize, generate, copy instantly
 
 ---
 
-## 🎐 Features
+## Features
 
-🎚️ **Adjustable Length** — customize from 4 to 32 characters  
-🔠 **Character Control** — toggle uppercase, lowercase, numbers & symbols  
-📋 **One-Click Copy** — copies to clipboard with instant confirmation  
-📊 **Strength Meter** — real-time visual password strength feedback  
-🔐 **Crypto-Secure** — powered by `crypto.getRandomValues()`  
-📱 **Fully Responsive** — works seamlessly across all devices  
-🎬 **Smooth Animations** — polished hover & toggle transitions
+▸ **Adjustable Length** — 4 to 32 characters  
+▸ **Character Sets** — uppercase, lowercase, numbers, symbols  
+▸ **Instant Copy** — one click, with confirmation  
+▸ **Strength Meter** — real-time feedback  
+▸ **Secure by Design** — built on `crypto.getRandomValues()`  
+▸ **Responsive** — desktop to mobile  
+▸ **Animated UI** — smooth transitions throughout
 
 ---
 
