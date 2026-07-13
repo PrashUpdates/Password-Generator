@@ -17,7 +17,6 @@ A clean, fast, secure password generator — customize, generate, copy instantly
   <img src="https://img.shields.io/badge/_Dependencies-None-ef4444?style=for-the-badge" height="28"/>
 </p>
 
----
 
 ## 🛸 Features
 
@@ -29,7 +28,6 @@ A clean, fast, secure password generator — customize, generate, copy instantly
 - 🔐 Crypto-Secure Randomness
 - 📱 Responsive Design
 
----
 
 ## 🚀 Built With
 
@@ -37,6 +35,5 @@ A clean, fast, secure password generator — customize, generate, copy instantly
 - CSS3
 - JavaScript
 
----
 
 <h3 align="center">Made with ⚡ + ☕</3>
