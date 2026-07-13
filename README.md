@@ -39,4 +39,4 @@ A clean, fast, secure password generator — customize, generate, copy instantly
 
 ---
 
-<p align="center">Made with ⚡ + ☕</p>
+<h3 align="center">Made with ⚡ + ☕</3>
